@@ -1,0 +1,10 @@
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.deps.json
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.runtimeconfig.json
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.runtimeconfig.dev.json
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.dll
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.pdb
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.AssemblyInfo.cs
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.dll
+C:\Users\514484\Documents\Visual Studio 2017\Projects\WebApplication1\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.pdb
